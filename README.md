@@ -1,20 +1,31 @@
+<img src = "https://github.com/Carleone-Souza-Santos/Portf-lio/blob/master/src/assets/imgUserjob.png?raw=true" alt="img user"/>
+
+<div>
 <h1>Instagram Clone</h1>
-<p>Projeto DEVCLUB na veia.</p>
+<a href="https://www.linkedin.com/in/carleone-santos/" target="_blank">
+<img src="https://github.com/Carleone-Souza-Santos/Proj.Hamburgueria.Carl/blob/master/arsset/social_media_online_linked_in_icon-icons.com_59694.png?raw=true"  alt="linkdin"></a> 
+  
+<a href="https://carleone-souza-santos.github.io/Instagram/" target="_blank">
+<img src="https://carleone-souza-santos.github.io/Instagram/"  height="32em" alt="img-Instagran-clone"></a> 
+</div>
+
 
 <h2>🚀 Tecnologias</h2>
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<p>Tecnologias ultilizadas no front-end.</p>
 
-<li>HTML e CSS</li>
-<li>JavaScript</li>
-<li>Git e Github</li>
-<li>Figma</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Git</li>
+<li>Github</li>
 
-<img src="assets/mobile (2).png" alt="Imagen nootbook" />
-
+<img src="https://github.com/Carleone-Souza-Santos/Instagram/blob/master/assets/movie/design.jpg?raw=true" alt="image-Instagran"/>
 
 <h2>💻 Projeto</h2>
+Este projeto foi concluido com base na pag principal do instagran, com intuito de desenvolver habilidades com as ferramentas de programação com aplicações de teste e verificação final do conteúdo..
 
 <h2>🔖 Layout</h2>
+Este modelo foi aplicado responsividade e seguindo o layout solicitado.
 
 <h2>📝 Licença</h2>
 
